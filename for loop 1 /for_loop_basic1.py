@@ -18,9 +18,6 @@ while x <=500000:
         sum = sum + x
         print(sum)
 
-for i in range(1, 500001, 2):
-    sum += i
-print(sum)
 
 for x in range(2018, 0, -4):
     print(x)
